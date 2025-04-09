@@ -61,9 +61,5 @@ npm run dev
 
 Visit http://localhost:3000 to view the site.
 
-## Contact
+Or you can visit:https://v0-portfolio-emrg2h.vercel.app/#projects to view the site.
 
-Built by Weijia Yan  
-Email: your@email.com  
-GitHub: https://github.com/yourname  
-LinkedIn: https://linkedin.com/in/yourprofile
